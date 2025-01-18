@@ -106,3 +106,5 @@ dist
 
 monolith-code-*/
 updater/updater*
+
+.nvmrc

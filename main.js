@@ -7,7 +7,7 @@ const { requireLazy } = require('./src/common');
 const Store = require('./src/store');
 
 const appInfo = {
-  name: 'monolith code',
+  name: 'LibrePythonista monolith code',
   version: app.getVersion(),
   os: process.platform,
 };
